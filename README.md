@@ -1,4 +1,4 @@
-# Billabong-ecommerse
+# Billabong-ecommerce
 Proyecto ecommerce Billabong realizado para la Entrega Final del Curso JavaScript en CoderHouse.
 
 GitHub Pages Activo:
